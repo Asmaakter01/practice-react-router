@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    @apply font-bold text-green-400 bg-transparent;
+}
